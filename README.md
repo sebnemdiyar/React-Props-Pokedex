@@ -9,7 +9,8 @@ Bu proje, tek sayfalık bir Pokémon kart oyunudur. Sayfa yenilendiğinde kazana
 - Sayfa yenilendiğinde rastgele Pokémon dağılımı  
 - Her Pokémon’un tipi ve deneyim puanını gösterme  
 - Kazanan ve kaybeden oyuncuların toplam puanını hesaplama  
-- Basit ve kullanıcı dostu arayüz  
+- Basit ve kullanıcı dostu arayüz
+- Responsive tasarım
 
 ## Kullanılan Teknolojiler
 
